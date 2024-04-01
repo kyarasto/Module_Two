@@ -1,7 +1,7 @@
 import processing.serial.*;
 
-Serial myPort;  // Create object from Serial class
-String val;      // Data received from the serial port
+Serial myPort;  
+String val;      
 
 ParticleSystem ps;
 PImage sprite;  
