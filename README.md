@@ -8,16 +8,22 @@ StarMachine is an interactive art piece that allows the user to change the posit
 | **Breadboard**               | **Wires**           | **USB-C Cable** | 
 
 
-## Reproducing LoveBot
+## Reproducing StarMachine
 
-#### Loading the code onto the TTGO
+#### Connecting the Joystick and Button
 
-To load the code found in the _moduleIOneInstall.ino file into the ESP32...
-- Open the Ardunio IDE and install the esp32 by Espressif in the boards manager.
-- Then install the TFT_eSPI libaray in "Manage Libraries" found in the Tools tab to be able to create sprites.
+To connect the joystick and button to the ESP32, we need a breadboard, male to male wires and male to female wires. 
 
-- Create a new sketch. Add the code in the _moduleIOneInstall.ino file of this repo to the sketch and upload it onto your ESP32. 
-- *NOTE* : If you have errors uploading make sure to go to "Tools" and then "Upload Speed" and change the upload speed to 115200.
+Connect the joystick headers to the female to male wires and place the button into the breadboard. Connect to the ESP32 using this pinout:
+
+| Joystick | ESP32 | ~ | Button | ESP32 |
+| --- | --- | --- | --- | --- |
+| **GND** | **GND** |~| **pin** | **3v** |
+| **5V** | **5V** |~| **pin** | **37** |
+| **VRX** | **pin 33** |~
+| **VRY** | **pin 32** |~
+| **SW** | **pin 39** |~
+
 
 #### Customizing the Code
 Apart from changing the brightness of the screen you can customize the colors of everything, paramaters of the positioning, or even create more stars. To create more stars just change the parameters of the for loop that creates the stars, the more times the loop runs the more stars are created.  
