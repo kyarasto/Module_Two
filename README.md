@@ -43,7 +43,7 @@ Supplies:
 3) Cut a square and hot glue it to the open side of the box.
 4) You should now have a box with one square side open.
 5) Next to fit the wires coming up from the breadboard, cut a small rectangle at the top of the box and build walls and a roof around it.
-6) To fit the joystick and the button cut hole as shown in the image below.  
+6) To fit the joystick and the button cut openings for them as shown in the image below.  
 7) Next paint the box however you want! Be creative!
 8) The last step is to use a string and paper to create a curtain for the open side of the box.
 9) Attach the curtain as shown in the image and your enclosure is complete!
