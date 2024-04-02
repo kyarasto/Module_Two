@@ -42,16 +42,17 @@ Supplies:
 2) Hot glue them together to create a box with 2 sides open.
 3) Cut a square and hot glue it to the open side of the box.
 4) You should now have a box with one square side open.
-5) Nex to fit the wires coming up from the breadboard, cut a small rectangle at the top of the box and build walls and a roof around it. 
-6) Next paint the box however you want! Be creative!
-7) The last step is to use a string and paper to create a curtain for the open side of the box.
-8) Attach the curtain as shown in the image and your enclosure is complete!
+5) Next to fit the wires coming up from the breadboard, cut a small rectangle at the top of the box and build walls and a roof around it.
+6) To fit the joystick and the button cut hole as shown in the image below.  
+7) Next paint the box however you want! Be creative!
+8) The last step is to use a string and paper to create a curtain for the open side of the box.
+9) Attach the curtain as shown in the image and your enclosure is complete!
 
 <img src="https://github.com/kyarasto/Module_Two/assets/113846467/913200d5-c76a-4443-a93e-3d71e2c20bd8" width="400" height="500">
 
 
 #### Combining device and enclosure.
-Now that the ESP32 is connected to the joystick and button, plug it into the computer and upload the ardunio code "module2Joystick.ino". Once the arduino code is loaded onto the ESP32, make sure 3 numbers are showing up in the serial monitor. There should be an X and Y coordinate and a 0 or 1 (1 when you press the button, 0 when it is not pressed).  
+Now that the ESP32 is connected to the joystick and button, plug it into the computer and upload the ardunio code "module2Joystick.ino". Once the arduino code is loaded onto the ESP32, make sure 3 numbers are showing up in the serial monitor. There should be an X and Y coordinate and a 0 or 1 (1 when you press the button, 0 when it is not pressed). Now close the serial monitor and open processing. Run StarJoystick.pde with Star.pde and StarSystem.pde. Now move the curtain and place the device inside, pushing the button and joystick through their openings and the wires on the breadboard through its opening. 
 
 
 
