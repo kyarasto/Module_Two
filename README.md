@@ -67,7 +67,7 @@ StarMachine uses the joystick to change the position of the stars on the screen 
 
 The [video](https://youtube.com/shorts/1NgUFZmwixI?feature=share](https://youtube.com/shorts/6nX9B5nqd1I)) shows the full installation and this [blog](https://kyarasto.github.io/ModuleOneBlog/) tells you more about my artistic vision!
 
-Thank you for the support of Mark Santolucito and Eris Gao in creating an amazing installation!
+Thank you for the support of Mark Santolucito in creating this project!
 
 
 
