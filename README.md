@@ -16,17 +16,16 @@ To connect the joystick and button to the ESP32, we need a breadboard, male to m
 
 Connect the joystick headers to the female to male wires and place the button into the breadboard. Connect to the ESP32 using this pinout:
 
-| Joystick | ESP32 | ~ | Button | ESP32 |
+| Joystick | ESP32 | & | Button | ESP32 |
 | --- | --- | --- | --- | --- |
-| **GND** | **GND** |~| **pin** | **3v** |
-| **5V** | **5V** |~| **pin** | **37** |
-| **VRX** | **pin 33** |~
-| **VRY** | **pin 32** |~
-| **SW** | **pin 39** |~
+| **GND** | **GND** || **pin** | **3v** |
+| **5V** | **5V** || **pin** | **37** |
+| **VRX** | **pin 33** |
+| **VRY** | **pin 32** |
+| **SW** | **pin 39** |
 
 
-#### Customizing the Code
-Apart from changing the brightness of the screen you can customize the colors of everything, paramaters of the positioning, or even create more stars. To create more stars just change the parameters of the for loop that creates the stars, the more times the loop runs the more stars are created.  
+![wired button and joystick](https://github.com/kyarasto/Module_Two/blob/main/wiredButtonJoy.heic)
 
 #### Adding the battery to LoveBot
 
