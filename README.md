@@ -61,12 +61,11 @@ Once the device is in the enclosure, make sure the usbc cable is connnected to t
 
 ## Using StarMachine
 
-StarMachine uses the joystick to change the position of the stars on the screen and the button to change the color of the screen. To change the number of stars you can change _____ in _____. And to change the available background colors change the hex codes on line ____ anad ____ of the ____ file.
-
+StarMachine uses the joystick to change the position of the stars on the screen and the button to change the color of the screen. Below is a video tutorial of how to use StarMachine and a blog where you can learn about the art.
 
 #### Video and Blog
 
-The [video](https://youtube.com/shorts/1NgUFZmwixI?feature=share) shows the full installation and this [blog](https://kyarasto.github.io/ModuleOneBlog/) tells you more about my artistic vision!
+The [video]([https://youtube.com/shorts/1NgUFZmwixI?feature=share](https://youtube.com/shorts/6nX9B5nqd1I)) shows the full installation and this [blog](https://kyarasto.github.io/ModuleOneBlog/) tells you more about my artistic vision!
 
 Thank you for the support of Mark Santolucito and Eris Gao in creating an amazing installation!
 
