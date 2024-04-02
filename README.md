@@ -1,4 +1,4 @@
-## StarMachine 💘
+## StarMachine ✨
 StarMachine is an interactive art piece that allows the user to change the position of stars using a joystick and change the background color with a button. It was built using an ESP32 TTGO T-display, a joystick, and a button. Below you can find all of the information to reproduce LoveBot.
 
 #### Hardware Supplies
