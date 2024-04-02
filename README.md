@@ -52,8 +52,16 @@ Supplies:
 
 
 #### Combining device and enclosure.
-Now that the ESP32 is connected to the joystick and button, plug it into the computer and upload the ardunio code "module2Joystick.ino". Once the arduino code is loaded onto the ESP32, make sure 3 numbers are showing up in the serial monitor. There should be an X and Y coordinate and a 0 or 1 (1 when you press the button, 0 when it is not pressed). Now close the serial monitor and open processing. Run StarJoystick.pde with Star.pde and StarSystem.pde. Now move the curtain and place the device inside, pushing the button and joystick through their openings and the wires on the breadboard through its opening. 
+Now that the ESP32 is connected to the joystick and button, plug it into the computer and upload the ardunio code "module2Joystick.ino". Once the arduino code is loaded onto the ESP32, make sure 3 numbers are showing up in the serial monitor. There should be an X and Y coordinate and a 0 or 1 (1 when you press the button, 0 when it is not pressed). Now close the serial monitor and open processing. Run StarJoystick.pde with Star.pde and StarSystem.pde. Now move the curtain and place the device inside, pushing the button and joystick through their openings and the wires on the breadboard through their opening. This should look like this:
 
+<img src="https://github.com/kyarasto/Module_Two/assets/113846467/e143c406-7aeb-4dad-a8e1-5d640a97fe29" width="310" height="500">
+<img src="https://github.com/kyarasto/Module_Two/assets/113846467/630e392b-cd1d-4233-b965-b171b1a7f91f" width="400" height="500">
+
+Once the device is in the enclosure, make sure the usbc cable is connnected to the laptop and coming out through the curtain. You can now use the device!
+
+## Using StarMachine
+
+StarMachine uses the joystick to change the position of the stars on the screen and the button to change the color of the screen. To change the number of stars you can change _____ in _____. And to change the available background colors change the hex codes on line ____ anad ____ of the ____ file.
 
 
 #### Video and Blog
