@@ -67,3 +67,4 @@ class Particle {
     part.translate(velocity.x, velocity.y);
   }
 }
+//modified from processing Particles demo by Daniel Shiffman
